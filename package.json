@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/burgosjona/BurgosJonathanEntregaN2#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
 }
